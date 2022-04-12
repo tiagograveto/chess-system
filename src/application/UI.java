@@ -4,7 +4,6 @@ import chess.ChessPiece;
 import chess.ChessPosition;
 import chess.Color;
 
-import javax.swing.table.TableRowSorter;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
